@@ -15,4 +15,9 @@ public class APITest {
 		
 		System.out.println("I am API logout");
 	}
+	@Test
+	public void APIlogoutextended() {
+		
+		System.out.println("I am API logouttttt");
+	}
 }

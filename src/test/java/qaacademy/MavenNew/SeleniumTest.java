@@ -17,4 +17,10 @@ public class SeleniumTest {
 		System.out.println("I am selenium logout");
 		System.out.println("I am selenium logout for gitDemo");
 	}
+	@Test
+	public void seleniumlogoutextended() {
+		
+		System.out.println("I am selenium logout");
+		System.out.println("I am selenium logout for gitDemoooo");
+	}
 }
